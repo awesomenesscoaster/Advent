@@ -1,4 +1,4 @@
-with open("Day1.txt", "r") as fhand:
+with open("Advent/2024/Day1/Day1.txt", "r") as fhand:
     l = []
     r = []
     for i in fhand.read().split("\n"):
